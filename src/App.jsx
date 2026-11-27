@@ -71,7 +71,7 @@ function App() {
               class="botaoExcluir"
               onClick={() => excluirTarefa(tarefa.objectId)}
             >
-              <img class="lixeira" src="src/assets/lixeira fechada.png" alt="excluir tarefa" />
+              <img class="lixeira" src="/lixeirafechada.png" alt="excluir tarefa" />
             </button>
           </li>
         ))}
